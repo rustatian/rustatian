@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi, I am Valery Piashchynski!
 
-<!--
-**48d90782/48d90782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Engineer at <a href="https://spiralscout.com">SpiralScout</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working: on own operating system called - `angry_os`, rewriting golang pprof in C++ and Algorithms on [AlgoExpert.io](https://AlgoExpert.io)
+- :rocket: Programming Languages: C++, Golang, Rust
+- 💾 OS: ArchLinux
+- 🌱 I’m currently learning: `C++ in-depth`, `Operating systems (GNU/Linux)`
+- 📫 How to reach me: piashchynski_valery@icloud.com or [LinkedIn](https://linkedin.com/in/0xdev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Valery's github stats](https://github-readme-stats.vercel.app/api?username=48d90782&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
