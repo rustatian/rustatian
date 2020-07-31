@@ -3,7 +3,7 @@
 <p><em>Software Engineer at <a href="https://spiralscout.com">SpiralScout</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- 🔭 I’m currently working: on own operating system called - `angry_os`, rewriting golang pprof in C++ and Algorithms on [AlgoExpert.io](https://AlgoExpert.io)
+- 🔭 I’m currently working on own operating system called - `angry_os`, rewriting golang pprof in C++ and Algorithms on [AlgoExpert.io](https://AlgoExpert.io)
 - :rocket: Programming Languages: C++, Golang, Rust
 - 💾 OS: ArchLinux
 - 🌱 I’m currently learning: `C++ in-depth`, `Operating systems (GNU/Linux)`
