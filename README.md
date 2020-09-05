@@ -9,5 +9,5 @@
 - 🌱 I’m currently reading: `Advanced C/C++ Compilling`, `os-dev (pdf)`, [Kali Linux OSCP certification](https://www.offensive-security.com/pwk-oscp/)
 - 📫 How to reach me: piashchynski_valery@icloud.com or [LinkedIn](https://linkedin.com/in/0xdev)
 
-![Valery's github stats](https://github-readme-stats.vercel.app/api?username=48d90782&show_icons=true&count_private=true&include_all_commits=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&layout=compact&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Valery's github stats](https://github-readme-stats.vercel.app/api?username=48d90782&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&layout=compact&count_private=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
