@@ -10,5 +10,5 @@
 - 📹 I'm currently watching: `MIT 6.006`
 - 📫 How to reach me: piashchynski_valery@icloud.com or [LinkedIn](https://linkedin.com/in/0xdev)
 
-![Valery's github stats](https://github-readme-stats.vercel.app/api?username=48d90782&show_icons=true&count_private=true&include_all_commits=true)  
+![My github stats](https://github-readme-stats.vercel.app/api?username=48d90782&show_icons=true&count_private=true&include_all_commits=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&layout=compact&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
