@@ -14,4 +14,4 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=48d90782&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&line_height=27)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&count_private=true&include_all_commits=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&count_private=true&layout=compact&include_all_commits=true&theme=tokyonight)
