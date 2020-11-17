@@ -1,4 +1,4 @@
-### 👋 Hi, I am Valery Piashchynski!
+### 👋 Hi, I am Valery Piashchynski 😃
 
 <p><em>Software Engineer at <a href="https://spiralscout.com">SpiralScout</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
