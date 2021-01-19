@@ -9,7 +9,7 @@
 - 🌱 I’m currently reading: `Rust books`, `BPF Performance Tools`, `Cracking the coding interview`
 - 📹 I'm currently learning: `MIT 6.006`
 - 📫 How to reach me: piashchynski_valery@icloud.com or [LinkedIn](https://linkedin.com/in/0xdev)  
-- 🔑 Public GPG: 85AC22366BAB4FD626A276669480A51C85D357D0
+- 🔑 Public GPG: 9480A51C85D357D0
 ----
 
 
