@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Valery Piashchynski 😃
 
-<p><em>Software Engineer at <a href="https://spiralscout.com">SpiralScout</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p><em>Software Engineer at <a href="https://spiralscout.com">SpiralScout</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 </em></p>
 
 - 🔭 I’m currently working on my own open-source projects (`angry-os`, `pprof-rs`,Linux kernel researching, Algorithms implementation) and SpiralScout open-source projects: `roadrunner`, `goridge`, `endure`.
