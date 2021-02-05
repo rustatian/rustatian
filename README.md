@@ -13,4 +13,4 @@
 - 🔑 Public GPG: 9480A51C85D357D0
 ------
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=48d90782&show_icons=true&count_private=true&include_all_commits=true&line_height=27">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&count_private=true&layout=compact&include_all_commits=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=48d90782&count_private=true&include_all_commits=true">
