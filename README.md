@@ -11,6 +11,3 @@
 - 📹 I'm currently learning: `MIT 6.006`
 - 📫 How to reach me: piashchynski_valery@icloud.com or [LinkedIn](https://linkedin.com/in/rustatian)  
 - 🔑 Public GPG: 9480A51C85D357D0
-------
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=rustatian&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&line_height=27">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustatian&theme=gruvbox&count_private=true&include_all_commits=true">
