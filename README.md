@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my own open-source projects (`angry-os`, `pprof-rs`, `Linux kernel researching`, `Algorithms implementation (Algoexperts, LeetCode)`) and SpiralScout open-source projects: `roadrunner`, `goridge`, `endure`.
-- :rocket: Programming Languages: Golang, Rust
+- :rocket: Programming Languages: Golang, C++
 - 💾 OS and hardware: ArchLinux (Gnome), Ryzen 9 5950X, 64Gb RAM, 1Tb 880 PRO nvme, Asus ROG build, ⌨️ [Moonlander Mark-I](https://www.zsa.io/moonlander/)
 - 🌱 I’m currently reading: `Rust books`, `Cracking the coding interview`, `Writing a compiler in GO (but actually doing it in Rust)`, `Algorithms KORMAN (crying)`
 - 📹 I'm currently learning: `MIT 6.006`, `OpenCV4`
