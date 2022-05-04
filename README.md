@@ -10,4 +10,4 @@
 - 🌱 I’m currently reading: `Rust books`, `Cracking the coding interview`, `Writing a compiler in GO (but actually doing it in Rust)`, `Algorithms KORMAN (crying)`
 - 📹 I'm currently learning: `MIT 6.006`, `OpenCV4`
 - 📫 How to reach me: piashchynski_valery@icloud.com or [LinkedIn](https://linkedin.com/in/rustatian)  
-- 🔑 Public GPG: 9480A51C85D357D0
+- 🔑 Public PGP: 0x9480A51C85D357D0
