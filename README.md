@@ -4,7 +4,7 @@
 </em></p>
 
 
-- 🔭 I’m currently working on my own open-source projects (`angry-os`, `Linux kernel researching`, `Algorithms implementation (LeetCode)`) and SpiralScout open-source projects: `roadrunner`, `goridge`, `endure`.
+- 🔭 I’m currently working on my own open-source projects ([`angry-os`](https://github.com/rustatian/angry_os), `Linux kernel researching`, [`Algorithms implementation (LeetCode)`](https://github.com/rustatian/Algos)) and SpiralScout open-source projects: `roadrunner`, `goridge`, `endure`.
 - :rocket: Programming Languages: Golang, Rust
 - 💾 OS and hardware: ArchLinux (i3), Intel i9-12900k, 64Gb RAM, 2x980 Pro M2, ⌨️ [Moonlander Mark-I](https://www.zsa.io/moonlander/)
 - 🌱 I’m currently reading: `Rust books`, `Cracking the coding interview`, `Writing a compiler in GO (but actually doing it in Rust)`, `Algorithms KORMAN 4-th edition (crying)`
