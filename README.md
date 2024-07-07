@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Valery Piashchynski 😃
 
-<p><em>Lead Golang/Rust Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
+<p><em>Lead Golang (+Zig) Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 </em></p>
 
 - 🔭 I’m currently working on my own open-source projects ([`Algorithms implementation (LeetCode)`](https://github.com/rustatian/Algos)) and open-source projects: [`roadrunner`](https://github.com/roadrunner-server/roadrunner), [`goridge`](https://github.com/roadrunner-server/goridge), [`endure`](https://github.com/roadrunner-server/endure).
