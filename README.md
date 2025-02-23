@@ -4,7 +4,7 @@
 </em></p>
 
 - 🔭 I’m currently working on my own open-source projects ([`Algorithms implementation (LeetCode)`](https://github.com/rustatian/Algos)) and open-source projects: [`roadrunner`](https://github.com/roadrunner-server/roadrunner), [`goridge`](https://github.com/roadrunner-server/goridge), [`endure`](https://github.com/roadrunner-server/endure).
-- :rocket: Programming Languages: Go, Rust
+- :rocket: Programming Languages: Go, Rust, Python
 - 🧠: [LeetCode](https://leetcode.com/rustatian/)
 - 🤟: [Twitch channel](https://www.twitch.tv/rustatian), [YT channel](https://www.youtube.com/@rustatian)
 - 🫥: [Dotfiles](https://github.com/rustatian/dotfiles)
