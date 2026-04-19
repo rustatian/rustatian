@@ -3,7 +3,7 @@
 <p><em>Lead Golang Software Engineer (with AI, Rust, and Python experience) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 </em></p>
 
-- 🔭 I’m currently working on my own open-source projects ([`Algorithms implementation (LeetCode)`](https://github.com/rustatian/Algos)) and open-source projects: [`roadrunner`](https://github.com/roadrunner-server/roadrunner), [`goridge`](https://github.com/roadrunner-server/goridge), [`endure`](https://github.com/roadrunner-server/endure).
+- 🔭 I’m currently working on my own open-source projects ([`Algorithms implementation (LeetCode)`](https://github.com/rustatian/Algos)) and open-source projects pinned in my profile.
 - :rocket: Programming Languages: Go, Rust, Python
 - 🧠: [LeetCode](https://leetcode.com/rustatian/)
 - 🤟: [Twitch channel](https://www.twitch.tv/rustatian), [YT channel](https://www.youtube.com/@rustatian)
