@@ -11,8 +11,6 @@
 
 <p><em>Staff backend engineer: distributed systems, workflow orchestration, high-throughput runtimes, and AI. I write Go, Rust, and Python. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></em></p>
 
-I co-created [RoadRunner](https://github.com/roadrunner-server/roadrunner) in 2018, and I am its lead maintainer. Now I build [Rapira](https://rapira.rs): a PHP application server in Rust from the RoadRunner maintainers.
-
 ### 📦 Projects
 
 | Project | Language | Stars |
