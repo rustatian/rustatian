@@ -11,7 +11,7 @@
 
 <p><em>Staff backend engineer: distributed systems, workflow orchestration, high-throughput runtimes, and AI. I write Go, Rust, and Python.</em></p>
 
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></p>
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"></p>
 
 ### 📦 Projects
 
