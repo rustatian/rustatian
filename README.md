@@ -9,7 +9,9 @@
   <a href="https://github.com/sponsors/rustatian"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 </p>
 
-<p><em>Staff backend engineer: distributed systems, workflow orchestration, high-throughput runtimes, and AI. I write Go, Rust, and Python. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></em></p>
+<p><em>Staff backend engineer: distributed systems, workflow orchestration, high-throughput runtimes, and AI. I write Go, Rust, and Python.</em></p>
+
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></p>
 
 ### 📦 Projects
 
